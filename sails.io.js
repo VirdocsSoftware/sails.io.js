@@ -930,7 +930,7 @@
 
       // The route (path) to hit to get a x-origin (CORS) cookie
       // (or true to use the default: '/__getcookie')
-      useCORSRouteToGetCookie: true,
+      useCORSRouteToGetCookie: false,
 
       // The environment we're running in.
       // (logs are not displayed when this is set to 'production')
